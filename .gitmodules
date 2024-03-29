@@ -1,0 +1,6 @@
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/username/repository.git
+[submodule "react-calculator"]
+	path = react-calculator
+	url = https://github.com/bincy467/repository.git
